@@ -19,7 +19,3 @@ Forecasts future medal tallies by country using past performance, athlete age, a
 - Focus: top-performing nations  
 
 ---
-
-## Run
-```bash
-
