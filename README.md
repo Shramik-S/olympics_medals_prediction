@@ -22,7 +22,4 @@ Forecasts future medal tallies by country using past performance, athlete age, a
 
 ## Run
 ```bash
-git clone https://github.com/Shramik-S/olympic-predictor
-cd olympic-predictor
-pip install -r requirements.txt
-python predict.py
+
