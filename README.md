@@ -2,7 +2,7 @@
 
 Forecasts future medal tallies by country using past performance, athlete age, and participation data.
 
-**@shramik_s** | Nov 2025
+**@Shramik-S** | Nov 2025
 
 ---
 
